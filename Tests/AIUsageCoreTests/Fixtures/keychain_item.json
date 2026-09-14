@@ -1,0 +1,1 @@
+{"claudeAiOauth":{"accessToken":"fixture-access-not-a-real-token","refreshToken":"fixture-refresh-not-a-real-token","expiresAt":4102444800000,"scopes":["user:profile","user:inference"],"subscriptionType":"max","rateLimitTier":"default_claude_max_20x"}}

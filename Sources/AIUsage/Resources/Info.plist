@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.jbd.AIUsage</string>
+<key>CFBundleName</key><string>AI Usage</string>
+<key>CFBundleDisplayName</key><string>AI Usage</string>
+<key>CFBundleExecutable</key><string>AIUsage</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.0.0</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>CFBundleIconFile</key><string>AppIcon</string>
+<key>CFBundleDevelopmentRegion</key><string>fr</string>
+<key>CFBundleLocalizations</key><array><string>fr</string><string>en</string><string>it</string><string>es</string><string>de</string><string>pt-BR</string></array>
+<key>LSUIElement</key><true/>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSAppleEventsUsageDescription</key><string>AI Usage ouvre Terminal pour vous connecter avec les CLIs officiels.</string>
+<key>NSHumanReadableCopyright</key><string>Copyright © 2026 JBD</string>
+</dict></plist>
